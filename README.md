@@ -29,6 +29,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Court Statistics](https://statistika-ntalt.hub.arcgis.com)
  
 ## Legal Entities
+- [Business Register](https://www.registrucentras.lt/jar/p_en/)
 - [Karštos Pėdos](https://karstospedos.lt/en/home.html). A transparency tool that visualises the interconnections of politicians, civil servants, businesses, and public finances
 - [PINREG](https://pinreg.vtek.lt/app/deklaraciju-paieska). Private Interest Registry is a civil servants’ declarations database that provides details on family connections, loans, and other relevant information on individuals who work in official state positions
 - [Tax Inspectorate](https://www.vmi.lt/evmi/rinkmenos?lang=en). Authorization required
