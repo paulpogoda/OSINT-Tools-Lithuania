@@ -1,6 +1,8 @@
 # OSINT-Tools-Lithuania
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuania_FLAG"/>
-A list of OSINT resources and tools that may be useful when conducting investigations related to Lithuania. Most of the resources and tools have versions in English, but Lithuanian is more complete. 
+A list of OSINT resources and tools that may be useful when conducting investigations related to Lithuania. Most of the resources and tools have versions in English, but Lithuanian is more complete.
+
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-Lithuania?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
